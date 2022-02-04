@@ -1,0 +1,10 @@
+Step:1	{"metric": {"val": {"RMSE": 34.146968841552734}}, "step": 1}
+Step:2	{"metric": {"val": {"RMSE": 31.134798049926758}}, "step": 2}
+Step:3	{"metric": {"val": {"RMSE": 31.55911636352539}}, "step": 3}
+Step:4	{"metric": {"val": {"RMSE": 34.45651626586914}}, "step": 4}
+Step:5	{"metric": {"val": {"RMSE": 35.91547393798828}}, "step": 5}
+Step:6	{"metric": {"val": {"RMSE": 36.97685623168945}}, "step": 6}
+Step:7	{"metric": {"val": {"RMSE": 39.07809066772461}}, "step": 7}
+Step:8	{"metric": {"val": {"RMSE": 42.5366325378418}}, "step": 8}
+Step:9	{"metric": {"val": {"RMSE": 47.05152130126953}}, "step": 9}
+Step:10	{"metric": {"val": {"RMSE": 51.332698822021484}}, "step": 10}

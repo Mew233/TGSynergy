@@ -1,0 +1,5 @@
+Step:1	{"loss": {"Train_MSE": 1.532494068145752}, "step": 1}
+Step:2	{"loss": {"Train_MSE": 1.8571916818618774}, "step": 2}
+Step:3	{"loss": {"Train_MSE": 1.726405382156372}, "step": 3}
+Step:4	{"loss": {"Train_MSE": 0.8508927822113037}, "step": 4}
+Step:5	{"loss": {"Train_MSE": 1.3804823160171509}, "step": 5}

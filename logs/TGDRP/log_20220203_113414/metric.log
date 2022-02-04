@@ -1,0 +1,5 @@
+Step:1	{"metric": {"val": {"RMSE": 1.2581747770309448}}, "step": 1}
+Step:2	{"metric": {"val": {"RMSE": 1.2242374420166016}}, "step": 2}
+Step:3	{"metric": {"val": {"RMSE": 1.2220940589904785}}, "step": 3}
+Step:4	{"metric": {"val": {"RMSE": 1.2039240598678589}}, "step": 4}
+Step:5	{"metric": {"val": {"RMSE": 1.1728516817092896}}, "step": 5}

@@ -1,0 +1,10 @@
+Step:1	{"loss": {"Train_MSE": 749.7197875976562}, "step": 1}
+Step:2	{"loss": {"Train_MSE": 557.0125732421875}, "step": 2}
+Step:3	{"loss": {"Train_MSE": 204.7169647216797}, "step": 3}
+Step:4	{"loss": {"Train_MSE": 186.43296813964844}, "step": 4}
+Step:5	{"loss": {"Train_MSE": 734.121337890625}, "step": 5}
+Step:6	{"loss": {"Train_MSE": 265.1484375}, "step": 6}
+Step:7	{"loss": {"Train_MSE": 240.97267150878906}, "step": 7}
+Step:8	{"loss": {"Train_MSE": 225.29779052734375}, "step": 8}
+Step:9	{"loss": {"Train_MSE": 349.434814453125}, "step": 9}
+Step:10	{"loss": {"Train_MSE": 231.98187255859375}, "step": 10}

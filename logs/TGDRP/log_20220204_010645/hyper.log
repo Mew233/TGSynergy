@@ -1,0 +1,1 @@
+{"hyper": {"seed": 42, "device": "cpu", "model": "TGDRP", "batch_size": 128, "lr": 0.0001, "layer_drug": 3, "dim_drug": 128, "layer": 3, "hidden_dim": 8, "weight_decay": 0, "dropout_ratio": 0.2, "epochs": 100, "patience": 3, "edge": 0.95, "setup": "known", "pretrain": 0, "weight_path": "", "mode": "train", "num_feature": 3}}
